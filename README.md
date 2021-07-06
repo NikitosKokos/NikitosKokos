@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 Hi, here you can see my code and activity! ✨
 
 <!--
 **NikitosKokos/NikitosKokos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
